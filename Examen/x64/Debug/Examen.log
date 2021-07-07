@@ -1,0 +1,5 @@
+﻿  Examen.cpp
+C:\Users\Denis\source\repos\Examen\Examen.cpp(82,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Repo.cpp
+  Generating Code...
+  Examen.vcxproj -> C:\Users\Denis\source\repos\Examen\x64\Debug\Examen.exe
